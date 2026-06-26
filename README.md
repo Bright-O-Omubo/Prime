@@ -1,2 +1,2 @@
 # Prime
-this  is my first prime repository
+Initializing a simple TCP echo sevrer
